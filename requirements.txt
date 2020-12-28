@@ -1,0 +1,7 @@
+discord.py
+dnspython
+youtube_dl
+ffmpeg
+colorlog
+PyNaCl
+pillow
